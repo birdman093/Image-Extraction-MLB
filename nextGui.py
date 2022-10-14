@@ -1,3 +1,7 @@
+"""
+Starting Point for Python GUI using Tkinter based on YouTube Tutorial
+"""
+
 from tkinter import *
 from PIL import ImageTk, Image
 
